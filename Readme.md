@@ -22,6 +22,8 @@ The material is not self-explanatory without the tranining workshop.
 
 !?[ransomware song](https://youtu.be/d2dsI8NvdCU)
 
+[slides download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/presentation.pdf)
+
 ## Prerequisites
 
 - You have a general understanding about IT operations and common practices in this matter such as ITIL
