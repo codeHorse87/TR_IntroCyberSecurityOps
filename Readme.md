@@ -88,9 +88,9 @@ The below flow diagram is a representation the implementation of a username and 
 
 ### Demo - FUZZing The golden ticket
 
-A ticket agency runs a small webservice at http://static.215.46.69.159.clients.your-server.de. With this service a ruffle is connect to the cards of a concert. When your ticket has a certain ID, you get upgrade to a "Golden Ticket" with VIP backstage access. You've already tested your ticket by reading the QRCode resolving in the following URL: 
+A ticket agency runs a small webservice at http://static.208.217.55.162.clients.your-server.de. With this service a ruffle is connect to the cards of a concert. When your ticket has a certain ID, you get upgrade to a "Golden Ticket" with VIP backstage access. You've already tested your ticket by reading the QRCode resolving in the following URL: 
 
-**http://static.215.46.69.159.clients.your-server.de/tickets/MQo=**
+**http://static.208.217.55.162.clients.your-server.de/tickets/MQo=**
 
 Let's see if you can figure out how the system works and how you can upgrade yourself to the "Golden Ticket"
 
