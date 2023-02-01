@@ -28,7 +28,10 @@ The material is not self-explanatory without the tranining workshop.
 !?[disaster recovery song](https://youtu.be/uUZdCNyIOQc)
 
 - [slides part2 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/presentation2.pdf)
-- [Excercise part2 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/Exercise_BecomeACertAuthority.pdf)
+
+**Exercise for part 2**
+- [Excercise description download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/Exercise_BecomeACertAuthority.pdf)
+- [config file](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/config.zip)
 
 
 ## Prerequisites
