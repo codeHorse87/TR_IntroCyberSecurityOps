@@ -22,9 +22,9 @@ The material is not self-explanatory without the tranining workshop.
 
 !?[ransomware song](https://youtu.be/d2dsI8NvdCU)
 
-[slides part1 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/presentation.pdf)
-[slides part2 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/presentation2.pdf)
-[Excercise part2 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/Exercise_BecomeACertAuthority.pdf)
+- [slides part1 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/presentation.pdf)
+- [slides part2 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/presentation2.pdf)
+- [Excercise part2 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/Exercise_BecomeACertAuthority.pdf)
 
 ## Prerequisites
 
