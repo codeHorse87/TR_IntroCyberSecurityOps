@@ -26,6 +26,8 @@ The material is not self-explanatory without the tranining workshop.
 - [slides part2 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/presentation2.pdf)
 - [Excercise part2 download](https://github.com/codeHorse87/TR_IntroCyberSecurityOps/raw/main/Exercise_BecomeACertAuthority.pdf)
 
+!?[disaster recovery song](https://youtu.be/uUZdCNyIOQc)
+
 ## Prerequisites
 
 - You have a general understanding about IT operations and common practices in this matter such as ITIL
